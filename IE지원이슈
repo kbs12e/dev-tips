@@ -1,0 +1,6 @@
+1. html2canvas 라이브러리 - svg 캡쳐못하는 이슈
+
+: dom을 canvas화하여 image를 생성하는 라이브러리
+: 관련 이슈 (https://github.com/niklasvh/html2canvas/issues/1472)
+: 해결방안
+: canvg (https://github.com/canvg/canvg) 이용하여, svg 를 canvas로 변환 후, html2canvas로 image로 
