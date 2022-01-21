@@ -10,6 +10,8 @@
 * API Composition
 #### CQRS 패턴
 * pub/sub으로 서비스 시간 줄이는..
+* [https://2017.dddeurope.com/speakers/greg-young/]
+* [https://martinfowler.com/bliki/CQRS.html]
 * [https://always-kimkim.tistory.com/entry/cqrs-pattern]
 * [https://sonbbang78.tistory.com/1285]
 
